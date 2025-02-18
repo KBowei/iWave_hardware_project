@@ -7,5 +7,7 @@ Prepare the images in YUV420 format and the pre-trained model files in advance. 
 In the source/inference directory, the code files related to the model structure are:
 learn_wavelet_trans_additive.py (Transformation module, consistent with the structure shown in the presentation)
 PixelCNN.py (Entropy model module, consistent with the structure shown in the presentation)
+
 Run command:
 Encoding: python \source\inference\encodeAPP.py
+Decoding: python \source\inference\decodeAPP.py
