@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O3 -flto -shared  -o arithmetic_coding.so CMakeFiles/arithmetic_coding.dir/arithmetic_coding.cpp.o CMakeFiles/arithmetic_coding.dir/bind.cpp.o 
